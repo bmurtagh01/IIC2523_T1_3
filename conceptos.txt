@@ -1,0 +1,24 @@
+Conceptos:
+
+Den un contexto de para qué sirven estas herramientas, sus
+usos en la actualidad, número de usuarios, o cualquier otra información que ayude al lector a entender cuál
+es la utilidad de estos. De respuestas concisas, no m ́as de 6 lineas.
+
+-Amazon Web Service: Es un servicio de nube de Amazon el cuál ofrece más de 200 servicios como potencia de computo, almacenamiento de bases de datos o servicios de inteligencia artificial.
+Hoy en día miles de empresas, pymes a multinacionales, usan los servicios de AWS para albergar sus servicios TI dada la cantidad de funcionalidades que tiene y su capacidad de escalabilidad, 
+flexibilidad, optimización y medición. Levantar servicios TI como un servidor tomaba de semanas a meses según la escala, hoy grandes o pequeños proyectos pueden ser rápidamente levantados
+en tan solo horasy a reducidos costos gracias a servicios en la nube como AWS.
+
+-AWS IAM Roles: IAM refiere a Identity & Access Management nos permite manejar roles dentro de la plataforma de AWS al poder delegar a otros usuarios niveles de acceso personalizado según su
+función. Esto permite el desarollo de una organización sea segura ya que no queremos que un nuevo interno sea capaz de borrar todos los servicios de AWS ya sea por error o mala intención.
+Tambien nos permite dar acceso temporal a recursos de la organización y así no tener que compartir credenciales importantes.
+
+-AWS EC2: Es un servicio que provee capacidad de procesamiento computacional dimensionable en la nube, permitiendo escalar de manera rápida la capacidad, como que el requerimiento de 
+procesamiento de computo cambie, solo basta provisionar los sistemas con los bloques necesarios para escalar y pagar por la capacidad que se utiliza. AWS provee de todos estos servicios 
+para lograr escalar de manera sencilla y sin un alto costo.
+
+-AWS S3:
+
+-AWS RDS:
+
+-AWS Lambda:
