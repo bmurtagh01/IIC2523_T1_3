@@ -1,8 +1,8 @@
 Conceptos:
 
-Den un contexto de para qué sirven estas herramientas, sus
-usos en la actualidad, número de usuarios, o cualquier otra información que ayude al lector a entender cuál
-es la utilidad de estos. De respuestas concisas, no m ́as de 6 lineas.
+Den un contexto de para qué sirven estas herramientas, sus usos en la actualidad, número de usuarios,
+o cualquier otra información que ayude al lector a entender cuál es la utilidad de estos.
+De respuestas concisas, no más de 6 lineas.
 
 -Amazon Web Service: Es un servicio de nube de Amazon el cuál ofrece más de 200 servicios como potencia de computo, almacenamiento de bases de datos o servicios de inteligencia artificial.
 Hoy en día miles de empresas, pymes a multinacionales, usan los servicios de AWS para albergar sus servicios TI dada la cantidad de funcionalidades que tiene y su capacidad de escalabilidad, 
@@ -22,3 +22,29 @@ para lograr escalar de manera sencilla y sin un alto costo.
 -AWS RDS:
 
 -AWS Lambda:
+
+-CircleCI: Plataforma de Continuous Integration and Development (CI/CD). Con esto es posible realizar ciertas revisiones del código realizado de forma automática y frecuente.
+Fomenta el integrar el código realizado a un repositorio principal de forma frecuente y así ejecutar autómaticamente acciones sobre este,
+y por otro lado realiza el proceso de deploy de una forma automatizada, acelerando la distribución de resultados al producto final.
+Es preferida por sobre 1 millón de usuarios, siendo la herramienta más popular de este tipo.
+
+-Jenkins: Servidor de automatización autocontenido para proyectos, open source y desarrollado en Java. Se utiliza para automatizar tareas
+relacionadas con el desarrollo de software (desarrollo, testing, delivery y deploy).
+Permite crear una pipeline de CI/CD personalizada mediante el uso de plugins para adaptarse a cada proyecto.
+
+-Kubernetes: Plataforma de sistema distribuido para automatizar el proceso de deployment, manejo y ajuste de escala de aplicaciones
+basadas en contenedores. Con esta plataforma, es posible agrupar y administrar servidores que ejecutan contenedores de Linux de
+forma fácil y eficiente. Desarrollada inicialmente por Google, actualmente es open source.
+
+-Kubernetes Pods: Unidad básica de cómputo con la que se trabaja en Kubernetes. Una pod (o cápsula) es un grupo de uno o más contenedores
+que poseen recursos compartidos, y se encuentran en el mismo equipo, y hace sentido que se ejecuten de forma sincronizada debido a
+su alto acoplamiento. El objetivo de tener Pods en Kubernetes es acoplar contenedores que deben trabajar de forma sincronizada.
+
+-DNS: Sigla para "Sistema de Nombres de Dominio". Es un sistema de nomenclatura descentralizado para dispositivos conectados a redes IP.
+Su objetivo es enlazar los identificadores de un equipo (Dirección IP) que poseen valores complejos de recordar para una persona,
+con un nombre de Dominio legible para humanos, de forma de poder acceder al recurso mediante su nombre de dominio.
+En palabras más simples, es como el "phonebook" o "guía telefónica" del Internet.
+
+-NIC Chile: Centro encargado de registrar y administrar los nombres de dominio que terminan en ".cl", extensión que identifica a las
+páginas de Chile en Internet. Pertenece a la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile,
+y posee a la fecha alrededor de 724000 nombres registrados con el dominio CL.
