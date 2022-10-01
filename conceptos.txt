@@ -17,11 +17,21 @@ Tambien nos permite dar acceso temporal a recursos de la organización y así no
 procesamiento de computo cambie, solo basta provisionar los sistemas con los bloques necesarios para escalar y pagar por la capacidad que se utiliza. AWS provee de todos estos servicios 
 para lograr escalar de manera sencilla y sin un alto costo.
 
--AWS S3:
+-AWS S3:es un servicio de almacenamiento de objetos creado para almacenar y recuperar cualquier volumen de datos 
+desde cualquier ubicación. Es un servicio de almacenamiento sencillo que ofrece durabilidad, 
+disponibilidad, rendimiento, seguridad y escalabilidad prácticamente ilimitada a costos muy reducidos. Se puede 
+usar para almacenar cualquier el tipo y la cantidad de datos, leer el mismo fragmento de datos un millón de veces 
+o solo en caso de recuperación de desastres de emergencia.
 
--AWS RDS:
+-AWS RDS: un servicio administrado de base de datos relacional que puede utilizar el código, las aplicaciones 
+y las herramientas que utiliza actualmente con las bases de datos existentes. Amazon RDS se encarga de las 
+tareas habituales de las bases de datos, como el aprovisionamiento, las revisiones, las copias de seguridad, 
+la recuperación, la detección de errores y la reparación.
 
--AWS Lambda:
+-AWS Lambda: es un servicio informático que permite ejecutar código sin aprovisionar ni administrar servidores.
+realiza todas las tareas de administración de los recursos de computación, incluido el mantenimiento del servidor
+ y del sistema operativo, el aprovisionamiento de capacidad y el escalado automático, así como las funciones de
+  registro.
 
 -CircleCI: Plataforma de Continuous Integration and Development (CI/CD). Con esto es posible realizar ciertas revisiones del código realizado de forma automática y frecuente.
 Fomenta el integrar el código realizado a un repositorio principal de forma frecuente y así ejecutar autómaticamente acciones sobre este,
